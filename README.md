@@ -73,7 +73,7 @@ Make sure you have the following installed on your machine:
 
 ```bash
 git clone https://github.com/arunkumar204/health.git
-cd healthcare
+cd health
 ```
 
 **Installation**
